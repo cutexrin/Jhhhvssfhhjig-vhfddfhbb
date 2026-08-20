@@ -1,0 +1,13 @@
+{
+  "name": "zee5-location-proxy",
+  "version": "1.0.0",
+  "description": "ZEE5 Location Proxy - Mock All Location APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

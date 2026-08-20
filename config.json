@@ -1,0 +1,14 @@
+{
+  "location": {
+    "status": true,
+    "message": "success.!",
+    "country_code": "US",
+    "country": "UNITED STATES",
+    "state": "WASHINGTON",
+    "state_code": "WA",
+    "city": "SEATTLE",
+    "lat": 47.6109,
+    "long": -122.3303,
+    "pin": "98160"
+  }
+}
