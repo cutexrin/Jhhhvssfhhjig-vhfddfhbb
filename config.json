@@ -2,13 +2,13 @@
   "location": {
     "status": true,
     "message": "success.!",
-    "country_code": "US",
-    "country": "UNITED STATES",
-    "state": "WASHINGTON",
-    "state_code": "WA",
-    "city": "SEATTLE",
-    "lat": 47.6109,
-    "long": -122.3303,
-    "pin": "98160"
+    "country_code": "IN",
+    "country": "INDIA",
+    "state": "WEST BENGAL",
+    "state_code": "WB",
+    "city": "BAHARAMPUR",
+    "lat": 24.1024,
+    "long": 88.2508,
+    "pin": "742103"
   }
 }
